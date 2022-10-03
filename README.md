@@ -1,7 +1,11 @@
-### Hi there,
-I'm a fullstack developer and creative coder based in Berlin.
+<h1 align="center">Hi there, I'm Marco</h1>
+<h3 align="center">A Full-Stack Developer and Creative Coder from Berlin</h3>
 
-### Languages and Tools:
+## 💻 Portfolio Link
+<a href="www.anecoica.net" target="blank">visit website</a>
+
+
+## 💎 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -24,8 +28,13 @@ I'm a fullstack developer and creative coder based in Berlin.
 <br />
 <br />
 
+###  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaccardi&layout=compact&theme=dark" >
 
-### 📺 YouTube Tutorials I gave
+###  Github Stats</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoaccardi&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="marcoaccardi" /></p>
+
+## 📺 My youtube tutorials
 
 <!-- YOUTUBE:START -->
 - [Learn audio programming with Max/MSP | Hosted by The Audio Programmer YT Channel](https://www.youtube.com/watch?v=mACJ9yQ61Y8&list=PLLgJJsrdwhPzu0ygi51a55Iw23lm8bWBB)
